@@ -1,4 +1,4 @@
-# OAuth Authentication
+# OAuth Authentication with Google
 
 | email / password authentication | oauth authentication |
 | --- | --- |
@@ -43,4 +43,26 @@ This shows up in a modal, asking permission from the user to provide access to t
 3. Generate an OAuth Client ID
 4. Install Google's API library, initialize it with the OAuth Client ID
 5. Make sure the lib gets called any time the user clicks on the 'Login with Google' button.
+
+## Methods available with GAPI
+**Prototypes** are how Javascript does *inheritance* between "Classes".
+
+When inspecting an auth object in the console of your browser, you will see the `__proto__` properties of the object. 
+Expand the proto property, and you will see several methods available on that object.
+
+Say we are inspecting the proto property of the following object if a user is signed in.
+`gapi.auth2.getAuthInstance().isSignedIn`
+we will see this:
+```
+__proto__: {
+  Ei: f (a)
+  get: f()
+  listen: f (a)
+  set: f (a)
+  constructor: f (a)
+  __proto__: Object
+}
+```
+
+We could use `listen()` to "listen" to find out when a user is signed in.
 
