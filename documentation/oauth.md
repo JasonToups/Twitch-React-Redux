@@ -66,3 +66,7 @@ __proto__: {
 
 We could use `listen()` to "listen" to find out when a user is signed in.
 
+## Handling Auth with Redux Store
+
+Since the GoogleAuth Component is the only component that's aware if the user is signed in, we're going to pass the sign-in state to the Redux Store, so the whole App will reflect the user's sign-in state.
+
