@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Twitch-React-Redux/static/css/main.250624e0.chunk.css",
-    "main.js": "/Twitch-React-Redux/static/js/main.6e0d221b.chunk.js",
-    "main.js.map": "/Twitch-React-Redux/static/js/main.6e0d221b.chunk.js.map",
-    "runtime-main.js": "/Twitch-React-Redux/static/js/runtime-main.67af5ee2.js",
-    "runtime-main.js.map": "/Twitch-React-Redux/static/js/runtime-main.67af5ee2.js.map",
-    "static/js/2.91a10445.chunk.js": "/Twitch-React-Redux/static/js/2.91a10445.chunk.js",
-    "static/js/2.91a10445.chunk.js.map": "/Twitch-React-Redux/static/js/2.91a10445.chunk.js.map",
-    "static/js/3.1411d28e.chunk.js": "/Twitch-React-Redux/static/js/3.1411d28e.chunk.js",
-    "static/js/3.1411d28e.chunk.js.map": "/Twitch-React-Redux/static/js/3.1411d28e.chunk.js.map",
+    "main.js": "/Twitch-React-Redux/static/js/main.0623ce10.chunk.js",
+    "main.js.map": "/Twitch-React-Redux/static/js/main.0623ce10.chunk.js.map",
+    "runtime-main.js": "/Twitch-React-Redux/static/js/runtime-main.63b34906.js",
+    "runtime-main.js.map": "/Twitch-React-Redux/static/js/runtime-main.63b34906.js.map",
+    "static/js/2.845fbcee.chunk.js": "/Twitch-React-Redux/static/js/2.845fbcee.chunk.js",
+    "static/js/2.845fbcee.chunk.js.map": "/Twitch-React-Redux/static/js/2.845fbcee.chunk.js.map",
+    "static/js/3.9cb2d85c.chunk.js": "/Twitch-React-Redux/static/js/3.9cb2d85c.chunk.js",
+    "static/js/3.9cb2d85c.chunk.js.map": "/Twitch-React-Redux/static/js/3.9cb2d85c.chunk.js.map",
     "index.html": "/Twitch-React-Redux/index.html",
     "static/css/main.250624e0.chunk.css.map": "/Twitch-React-Redux/static/css/main.250624e0.chunk.css.map",
-    "static/js/2.91a10445.chunk.js.LICENSE.txt": "/Twitch-React-Redux/static/js/2.91a10445.chunk.js.LICENSE.txt"
+    "static/js/2.845fbcee.chunk.js.LICENSE.txt": "/Twitch-React-Redux/static/js/2.845fbcee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67af5ee2.js",
-    "static/js/2.91a10445.chunk.js",
+    "static/js/runtime-main.63b34906.js",
+    "static/js/2.845fbcee.chunk.js",
     "static/css/main.250624e0.chunk.css",
-    "static/js/main.6e0d221b.chunk.js"
+    "static/js/main.0623ce10.chunk.js"
   ]
 }
