@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header ui secondary pointing menu">
       <Link to="/" className="site-name link item">
-        Streamy
+        Twitch React
       </Link>
       <div className="menu-right right menu">
         <Link to="/" className="link item">
