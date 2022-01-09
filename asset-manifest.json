@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Twitch-React-Redux/static/css/main.250624e0.chunk.css",
-    "main.js": "/Twitch-React-Redux/static/js/main.c36acffc.chunk.js",
-    "main.js.map": "/Twitch-React-Redux/static/js/main.c36acffc.chunk.js.map",
+    "main.js": "/Twitch-React-Redux/static/js/main.12cc4432.chunk.js",
+    "main.js.map": "/Twitch-React-Redux/static/js/main.12cc4432.chunk.js.map",
     "runtime-main.js": "/Twitch-React-Redux/static/js/runtime-main.ad73ca07.js",
     "runtime-main.js.map": "/Twitch-React-Redux/static/js/runtime-main.ad73ca07.js.map",
-    "static/js/2.8f4a6a4d.chunk.js": "/Twitch-React-Redux/static/js/2.8f4a6a4d.chunk.js",
-    "static/js/2.8f4a6a4d.chunk.js.map": "/Twitch-React-Redux/static/js/2.8f4a6a4d.chunk.js.map",
+    "static/js/2.bdf0e5a2.chunk.js": "/Twitch-React-Redux/static/js/2.bdf0e5a2.chunk.js",
+    "static/js/2.bdf0e5a2.chunk.js.map": "/Twitch-React-Redux/static/js/2.bdf0e5a2.chunk.js.map",
     "static/js/3.729ba687.chunk.js": "/Twitch-React-Redux/static/js/3.729ba687.chunk.js",
     "static/js/3.729ba687.chunk.js.map": "/Twitch-React-Redux/static/js/3.729ba687.chunk.js.map",
     "index.html": "/Twitch-React-Redux/index.html",
     "static/css/main.250624e0.chunk.css.map": "/Twitch-React-Redux/static/css/main.250624e0.chunk.css.map",
-    "static/js/2.8f4a6a4d.chunk.js.LICENSE.txt": "/Twitch-React-Redux/static/js/2.8f4a6a4d.chunk.js.LICENSE.txt"
+    "static/js/2.bdf0e5a2.chunk.js.LICENSE.txt": "/Twitch-React-Redux/static/js/2.bdf0e5a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad73ca07.js",
-    "static/js/2.8f4a6a4d.chunk.js",
+    "static/js/2.bdf0e5a2.chunk.js",
     "static/css/main.250624e0.chunk.css",
-    "static/js/main.c36acffc.chunk.js"
+    "static/js/main.12cc4432.chunk.js"
   ]
 }
