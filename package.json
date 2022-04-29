@@ -22,7 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "servers": "chmod +x ./src/servers.sh; ./src/servers.sh",
+    "servers": "./src/scripts/servers.sh",
+    "permissions": "chmod +x ./src/scripts/permissions.sh; ./src/scripts/permissions.sh",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
