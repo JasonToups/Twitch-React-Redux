@@ -3,6 +3,7 @@
 ## React App
 cd into the **main directory** & run:
 `npm install`
+
 Then when the node packages & the package-lock has been created, then start the project with:
 `npm start`
 
@@ -12,6 +13,11 @@ cd into the **src/server** directory & run:
 Then when the node packages & the package-lock has been created, then start the project with:
 `npm start`
 
+## Running both servers with TTAB in Terminal
+After installing the node packages for both the React App & the Server, you can run both servers in your Terminal App, with the command:
+`npm run servers`
+
+This will open two new terminal tabs & runs both servers for the front-end & the back-end
 
 # Getting Started with Create React App
 
