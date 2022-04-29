@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ttab 'npm start'
-ttab "cd ./src/scripts/server; npm start"
+ttab "cd ./src/server; npm start"
