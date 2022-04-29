@@ -27,6 +27,14 @@
   margin: 0 0 .3125rem 0;
 }
 
+.ui.primary.button{
+  background-color: $color-tertiary;
+  
+  &:hover {
+    background-color: $TwitchPurple;
+  }
+}
+
 .youtube-search-page {
   display: block;
   width: 1127px;
