@@ -21,6 +21,12 @@
       "description": "You should not see this",
       "userId": "108148954477342439454",
       "id": 6
+    },
+    {
+      "title": "My new title",
+      "description": "a description",
+      "userId": "108148954477342439454",
+      "id": 7
     }
   ]
 }

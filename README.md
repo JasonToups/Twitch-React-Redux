@@ -14,6 +14,9 @@ Then when the node packages & the package-lock has been created, then start the 
 `npm start`
 
 ## Running both servers with TTAB in Terminal
+To use the shell scripts included in this project, run the command:
+`npm run permissions`
+
 After installing the node packages for both the React App & the Server, you can run both servers in your Terminal App, with the command:
 `npm run servers`
 
