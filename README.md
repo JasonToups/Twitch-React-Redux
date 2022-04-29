@@ -1,3 +1,18 @@
+# Starting the Project
+
+## React App
+cd into the **main directory** & run:
+`npm install`
+Then when the node packages & the package-lock has been created, then start the project with:
+`npm start`
+
+## Server
+cd into the **src/server** directory & run:
+`npm install`
+Then when the node packages & the package-lock has been created, then start the project with:
+`npm start`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

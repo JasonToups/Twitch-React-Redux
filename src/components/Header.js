@@ -9,7 +9,7 @@ const Header = () => {
         Twitch React
       </Link>
       <div className="menu-right right menu">
-        <Link to="/" className="link item">
+        <Link to="/streams" className="link item">
           All Streams
         </Link>
         <GoogleAuth />
