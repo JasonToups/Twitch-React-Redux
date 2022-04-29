@@ -21,6 +21,12 @@
   z-index: -1;
 }
 
+.auth-button--container {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 0 .3125rem 0;
+}
+
 .youtube-search-page {
   display: block;
   width: 1127px;

@@ -66,7 +66,8 @@ class StreamList extends React.Component {
 };
 
 const mapStateToProps = (state) => {
-  return { 
+  return {
+    // creating an array from the Object.values of the streams object
     streams: Object.values(state.streams),
     currentUserId: state.auth.userId,
     isSignedIn: state.auth.isSignedIn
