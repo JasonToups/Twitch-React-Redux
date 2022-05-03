@@ -9,6 +9,7 @@ const Header = () => {
         Twitch React
       </Link>
       <div className="menu-right right menu">
+        {/* TODO - what is this header for? */}
         <Link to="/streams" className="link item">
           All Streams
         </Link>

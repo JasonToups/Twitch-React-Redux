@@ -27,6 +27,12 @@
       "description": "a description",
       "userId": "108148954477342439454",
       "id": 7
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't expect that",
+      "userId": "108148954477342439454",
+      "id": 8
     }
   ]
 }
